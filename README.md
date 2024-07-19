@@ -6,7 +6,7 @@ An interactive circular date picker for SwiftUI.
 
 CircularDatePicker is a custom date selection component for iOS apps that use SwiftUI. It presents months in a circular layout, allowing users to navigate through dates with a natural rotational gesture.
 
-![CircularDatePicker demo](https://imgur.com/a/OlpFXj3)
+![CircularDatePicker demo](https://i.imgur.com/aCq4GVp.gif)
 
 ## Installation
 
